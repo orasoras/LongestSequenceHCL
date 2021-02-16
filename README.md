@@ -1,5 +1,5 @@
 # LongestSequenceHCL
-The program returns the Longest Sequence of numbers 
+The program returns the Longest Sequence of numbers. 
 If two or more sequence have the same long, it will return the first long one.
 
 The Program has two java classes:
